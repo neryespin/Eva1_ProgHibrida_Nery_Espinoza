@@ -1,0 +1,21 @@
+#infoCirculo {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .image-container {
+    max-width: 50%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden; 
+    box-shadow: 0 4px 8px rgba(167, 25, 180, 0.4); 
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  ion-img {
+    width: 100%;
+    display: block;
+  }
+  
